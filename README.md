@@ -31,4 +31,4 @@ Kaffee Analyzer would not have been possible without the contributions and suppo
 
 ---
 
-*Kaffee Analyzer is completed for the requirements of Automata and Formal Languages (CS0023) at FEU Alabang. The project was completed during the 1st semester of A.Y. 2022-2023.*
+*Kaffee Analyzer is developed for the requirements of Automata and Formal Languages (CS0023) at FEU Alabang. The project was completed during the 1st semester of A.Y. 2022-2023.*
