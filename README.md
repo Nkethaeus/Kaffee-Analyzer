@@ -4,7 +4,7 @@ Kaffee Analyzer is a lexical, syntax, and semantic analyzer developed for the pu
 
 ## Overview
 
-Kaffee Analyzer represents a crucial component in the development and validation process of Kaffee programs. Attempting to offer in-depth analysis and verification of code written in the Kaffee language.
+Kaffee Analyzer represents a crucial component in the development and validation process of writing programs. This project attempts to offer analysis and verification of code written in the Kaffee language.
 
 ## Features
 
