@@ -18,9 +18,11 @@ Kaffee Analyzer represents a crucial component in the development and validation
 
 ## Usage
 
-To utilize Kaffee Analyzer, simply create a text file and input your Kaffee source code then move said text file to the `tests` folder. The analyzer will then proceed to perform lexical, syntax, and semantic analysis.
+To use the Analyzer, simply create a text file and input your Kaffee source code then move said text file to the `tests` folder. The analyzer will then proceed to perform lexical, syntax, and semantic analysis.
 
-## The Team
+The syntax of Kaffee is inspired by C++ but has been simplified for ease of use. Check `tests` folder to see examples.
+
+## Group Members
 
 - Jerome Saulo
 - Geronimo Dayos III
@@ -29,4 +31,4 @@ To utilize Kaffee Analyzer, simply create a text file and input your Kaffee sour
 
 ---
 
-*Kaffee Analyzer is developed to fulfill the requirements of Automata and Formal Languages (CS0023) at FEU Alabang. The project was completed during the 1st semester of A.Y. 2022-2023.*
+*Kaffee Analyzer is built to fulfill the requirements of Automata and Formal Languages (CS0023) at FEU Alabang. The project was completed during the 1st semester of A.Y. 2022-2023.*
