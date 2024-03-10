@@ -29,6 +29,10 @@ The syntax of Kaffee is inspired by C++ but has been simplified for ease of use.
 - Francesca Linda Ramos
 - Radge Esor Bernardino
 
+## Notes
+
+Kaffee Analyzer is by no means a complete program, and while it offers functionality, it may contain bugs and exhibit limitations under certain conditions. The developers acknowledges these issues and was constrained by the project's deadline, which prevented comprehensive bug fixing and refinement.
+
 ---
 
 *Kaffee Analyzer is built to fulfill the requirements of Automata and Formal Languages (CS0023) at FEU Alabang. The project was completed during the 1st semester of A.Y. 2022-2023.*
