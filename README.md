@@ -20,7 +20,7 @@ Kaffee Analyzer represents a crucial component in the development and validation
 
 To utilize Kaffee Analyzer, simply create a text file and input your Kaffee source code then move said text file to the `tests` folder. The analyzer will then proceed to perform lexical, syntax, and semantic analysis.
 
-## Acknowledgements
+## The Team
 
 Kaffee Analyzer would not have been possible without the contributions and support from the following individuals:
 
