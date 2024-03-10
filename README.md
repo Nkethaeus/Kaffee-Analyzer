@@ -1,6 +1,6 @@
 # Kaffee Analyzer
 
-Kaffee Analyzer is a lexical, syntax, and semantic analyzer developed for the purpose of parsing programs written in our custom programming language, Kaffee. This tool has been developed to fulfill the requirements of a university project.
+Kaffee Analyzer is a lexical, syntax, and semantic analyzer developed for the purpose of parsing programs written in our custom programming language, Kaffee. This tool has been developed to fulfill the requirements of a university subject.
 
 ## Overview
 
@@ -31,4 +31,4 @@ Kaffee Analyzer would not have been possible without the contributions and suppo
 
 ---
 
-*Kaffee Analyzer is completed for the requirements of Automata and Formal Languages (CS0023) at FEU Alabang. The project was completed during the 1st semester of A.Y. 2022-2023.*
+*Kaffee Analyzer is developed to fulfill the requirements of Automata and Formal Languages (CS0023) at FEU Alabang. The project was completed during the 1st semester of A.Y. 2022-2023.*
