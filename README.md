@@ -1,51 +1,34 @@
 # Kaffee Analyzer
 
-Kaffee Analyzer is a comprehensive lexical, syntax, and semantic analyzer meticulously crafted for the purpose of parsing programs written in our bespoke programming language, Kaffee. This tool has been meticulously developed to fulfill the stringent requirements of a university project, ensuring accuracy, efficiency, and adherence to project specifications.
+Kaffee Analyzer is a lexical, syntax, and semantic analyzer developed for the purpose of parsing programs written in our custom programming language, Kaffee. This tool has been developed to fulfill the requirements of a university project.
 
 ## Overview
 
-Kaffee Analyzer represents a crucial component in the development and validation process of Kaffee programs. It serves as an indispensable tool for programmers and developers, offering in-depth analysis and verification of code written in the Kaffee language.
+Kaffee Analyzer represents a crucial component in the development and validation process of Kaffee programs. Attempting to offer in-depth analysis and verification of code written in the Kaffee language.
 
 ## Features
 
-- **Lexical Analysis**: Accurately identifies and categorizes the lexical elements of the Kaffee language, including keywords, identifiers, literals, and symbols.
+- **Lexical Analysis**: Identifies and categorizes the lexical elements of the Kaffee language, including keywords, identifiers, literals, and symbols.
   
-- **Syntax Analysis**: Implements a robust parsing mechanism to validate the syntactic structure of Kaffee programs, ensuring adherence to the defined grammar rules.
+- **Syntax Analysis**: Implements a parsing mechanism to validate the syntactic structure of Kaffee programs, ensuring adherence to the defined grammar rules.
   
-- **Semantic Analysis**: Performs thorough semantic checks to verify the correctness of program constructs, including type compatibility, variable scope, and adherence to language-specific semantics.
+- **Semantic Analysis**: Performs semantic checks to verify the correctness of program constructs, including type compatibility, variable scope, and adherence to language-specific semantics.
   
-- **Error Reporting**: Provides detailed error messages and diagnostics to aid developers in identifying and rectifying issues within Kaffee programs, facilitating a smoother debugging process.
+- **Error Reporting**: Provides error messages to identify and rectify issues within the written Kaffee programs.
 
 ## Usage
 
-To utilize Kaffee Analyzer, simply input your Kaffee source code into the provided interface or integrate it seamlessly into your development workflow using the provided APIs. The analyzer will then proceed to perform lexical, syntax, and semantic analysis, generating insightful reports and feedback on the validity and correctness of your code.
-
-## Installation
-
-```bash
-git clone https://github.com/yourusername/kaffee-analyzer.git
-cd kaffee-analyzer
-# Follow instructions for your specific platform
-```
-
-## Contributing
-
-Contributions to Kaffee Analyzer are welcome and encouraged! Whether you're interested in fixing bugs, implementing new features, or enhancing documentation, your contributions will be invaluable to the project's growth and success. Please refer to the [contribution guidelines](CONTRIBUTING.md) for detailed instructions on how to get involved.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+To utilize Kaffee Analyzer, simply create a text file and input your Kaffee source code then move said text file to the `tests` folder. The analyzer will then proceed to perform lexical, syntax, and semantic analysis.
 
 ## Acknowledgements
 
-Kaffee Analyzer would not have been possible without the invaluable contributions and support from the following individuals:
+Kaffee Analyzer would not have been possible without the contributions and support from the following individuals:
 
-- [List of contributors]
-
-## Contact
-
-For any inquiries, feedback, or support requests, please feel free to reach out to us at [contact@example.com].
+- Jerome Saulo
+- Geronimo Dayos III
+- Francesca Linda Ramos
+- Radge Esor Bernardino
 
 ---
 
-*Kaffee Analyzer - Empowering developers to write robust and reliable Kaffee programs.*
+*Kaffee Analyzer is completed for Automata and Formal Languages (CS0023) at FEU Alabang. The project was completed during the 1st semester of A.Y. 2022-2023.*
