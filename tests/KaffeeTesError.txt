@@ -1,0 +1,13 @@
+init(){
+  num x;
+  str y;
+  x = 1/43;
+  y = "c";
+
+  if (x == 143){
+    sysout("c");
+  }
+  elsif(x == 200){
+    sysout("v");
+  }
+}

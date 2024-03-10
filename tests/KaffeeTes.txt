@@ -1,0 +1,11 @@
+INIT(){
+  num x;
+  x=143;
+
+  if(x == 143){
+    sysout(Congrats);
+  }
+  elsif(x == 200){
+    sysout(Bagsak);
+  }
+}
