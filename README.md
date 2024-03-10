@@ -35,4 +35,4 @@ Kaffee Analyzer is by no means a complete program, and while it offers functiona
 
 ---
 
-*Kaffee Analyzer is built to fulfill the requirements of Automata and Formal Languages (CS0023) at FEU Alabang. The project was submitted during the 1st semester of A.Y. 2022-2023.*
+*Kaffee Analyzer was built to fulfill the requirements of Automata and Formal Languages (CS0023) at FEU Alabang. The project was submitted during the 1st semester of A.Y. 2022-2023.*
