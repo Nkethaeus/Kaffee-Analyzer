@@ -22,8 +22,6 @@ To utilize Kaffee Analyzer, simply create a text file and input your Kaffee sour
 
 ## The Team
 
-Kaffee Analyzer would not have been possible without the contributions and support from the following individuals:
-
 - Jerome Saulo
 - Geronimo Dayos III
 - Francesca Linda Ramos
