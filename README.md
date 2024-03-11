@@ -22,6 +22,10 @@ To use the analyzer, simply create a text file and input your Kaffee source code
 
 The syntax of Kaffee is inspired by C++ but has been simplified for ease of use. Check `tests` folder to see examples.
 
+<br />
+
+> Notes: Kaffee Analyzer is by no means a complete program, and while it offers functionality, it may contain bugs and exhibit limitations under certain conditions. The developers acknowledges these issues and was constrained by the project's deadline, which prevented comprehensive bug fixing and refinement.
+
 ## Group Members
 
 - Jerome Saulo
@@ -29,7 +33,7 @@ The syntax of Kaffee is inspired by C++ but has been simplified for ease of use.
 - Francesca Linda Ramos
 - Radge Esor Bernardino
 
-> Notes: Kaffee Analyzer is by no means a complete program, and while it offers functionality, it may contain bugs and exhibit limitations under certain conditions. The developers acknowledges these issues and was constrained by the project's deadline, which prevented comprehensive bug fixing and refinement.
+
 
 ---
 
