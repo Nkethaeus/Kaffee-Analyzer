@@ -18,7 +18,7 @@ Kaffee Analyzer represents a crucial component in the development and validation
 
 ## Usage
 
-To use the Analyzer, simply create a text file and input your Kaffee source code then move said text file to the `tests` folder. The analyzer will then proceed to perform lexical, syntax, and semantic analysis.
+To use the analyzer, simply create a text file and input your Kaffee source code then move said text file to the `tests` folder. Run `MainKaffee.java` in `src/main`, choose the file you want to analyze, and it will then proceed to perform lexical, syntax, and semantic analysis.
 
 The syntax of Kaffee is inspired by C++ but has been simplified for ease of use. Check `tests` folder to see examples.
 
