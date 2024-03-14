@@ -4,7 +4,7 @@
   <img src="https://github.com/DecPotein/Kaffee-Analyzer/assets/81295133/9ffd4404-5067-44c1-a762-6d7783f735f3" alt="Kaffee Analyzer logo"/>
 </p>
 
-Kaffee Analyzer is a lexical, syntax, and semantic analyzer developed for the purpose of parsing programs written in our custom programming language, Kaffee. This tool has been developed to fulfill the requirements of a university subject.
+Kaffee Analyzer is a lexical, syntax, and semantic analyzer developed for the purpose of parsing programs written in our custom programming language, Kaffee. The name 'Kaffee' is derived from the German word for 'coffee,' which serves as the inspiration for our project. This choice was influenced by our use of Java, with its logo famously depicting a coffee mug.
 
 ## Overview
 
