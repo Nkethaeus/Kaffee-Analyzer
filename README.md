@@ -1,7 +1,7 @@
 # Kaffee Analyzer
 
 <p align="center">
-  <img src="https://github.com/DecPotein/Kaffee-Analyzer/assets/81295133/45500815-62e2-4e1a-a624-866e05126f55" alt="Kaffee Analyzer logo"/>
+  <img src="https://github.com/DecPotein/Kaffee-Analyzer/assets/81295133/9ffd4404-5067-44c1-a762-6d7783f735f3" alt="Kaffee Analyzer logo"/>
 </p>
 
 Kaffee Analyzer is a lexical, syntax, and semantic analyzer developed for the purpose of parsing programs written in our custom programming language, Kaffee. This tool has been developed to fulfill the requirements of a university subject.
